@@ -2,12 +2,12 @@
 Summary:	Plugin for Bazaar-NG (bzr)
 Summary(pl.UTF-8):	Wtyczka do Bazaar-NG (bzr)
 Name:		qbzr
-Version:	0.17
+Version:	0.18.5
 Release:	1
 License:	GPL v2+
 Group:		Development/Version Control
-Source0:	http://launchpad.net/qbzr/trunk/%{version}/+download/qbzr-%{version}.tar.gz
-# Source0-md5:	5d4b963d24a0c204a42d689957848830
+Source0:	http://launchpad.net/qbzr/0.18/%{version}/+download/qbzr-%{version}.tar.gz
+# Source0-md5:	1c17f142dc82214c7e72ed78fd35723a
 URL:		http://bazaar-vcs.org/QBzr
 BuildRequires:	python >= 1:2.4
 BuildRequires:	rpm-pythonprov
