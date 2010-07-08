@@ -3,7 +3,7 @@ Summary:	Plugin for Bazaar-NG (bzr)
 Summary(pl.UTF-8):	Wtyczka do Bazaar-NG (bzr)
 Name:		qbzr
 Version:	0.18.5
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Development/Version Control
 Source0:	http://launchpad.net/qbzr/0.18/%{version}/+download/qbzr-%{version}.tar.gz
